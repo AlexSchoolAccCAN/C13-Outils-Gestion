@@ -3,3 +3,4 @@
 • Mettre en pratique la mise en page à l’aide des styles Word.\
 • P2 - Projet Word.docx\
 • Status : Terminé
+
